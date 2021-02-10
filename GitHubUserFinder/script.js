@@ -32,6 +32,7 @@ function showUser(user) {
     //Providing the link to user's profile
     document.getElementById("proLink").innerText = "Link to profile";
     document.getElementById("proLink").href = user.html_url;
+    document.getElementById("name").innerHTML = user.name;
 }
 //invalid username or no such user function
 function noSuchUser(username) {
