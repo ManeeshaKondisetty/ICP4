@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4b926a22-db15-40bb-b7d0-8df105263784" name="Default Changelist" comment="" />
+    <list default="true" id="e0a8c208-ad12-4148-87b5-b1c38f7a1ddc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,15 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="ProjectId" id="1o4sAiZzCUgvWVvttOJKKc8VCTG" />
+  <component name="ProjectId" id="1oCzK1mwauC2QFbexHDqLbESWFC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,27 +26,25 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="hover.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Hover/hover.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GitHubUserFinder/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.hover.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4b926a22-db15-40bb-b7d0-8df105263784" name="Default Changelist" comment="" />
-      <created>1612557061365</created>
+      <changelist id="e0a8c208-ad12-4148-87b5-b1c38f7a1ddc" name="Default Changelist" comment="" />
+      <created>1612805298183</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1612557061365</updated>
-      <workItem from="1612557066378" duration="2504000" />
-      <workItem from="1612726857528" duration="8901000" />
-      <workItem from="1612893655487" duration="815000" />
-      <workItem from="1612992548388" duration="1681000" />
+      <updated>1612805298183</updated>
+      <workItem from="1612805303469" duration="22217000" />
+      <workItem from="1612902334581" duration="5543000" />
     </task>
     <servers />
   </component>

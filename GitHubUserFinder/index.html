@@ -1,4 +1,4 @@
-<html>
+<html lang="en">
 <head>
     <title>Github User Finder</title>
     <link href="style.css" rel="stylesheet">
@@ -7,16 +7,39 @@
 </head>
 <body>
 <header>
-    <h1>Find Me!</h1>
+    <h1 style="font-size: 100px">Find Me!</h1>
 </header>
 <div id="container">
     <div class="search">
-        <input id="username" placeholder="enter a github username..." type="text"></input>
+        <input id="username" placeholder="enter a github username..." type="text"/>
     </div>
-    <div id="profile">
-        <h2></h2>
-        <div class="avatar"></div>
-        <div class="information"></div>
+    <div id="noUser" style="visibility: hidden">
+        <p style="font-size: 100px;color: red"> Invalid Username</p>
+    </div>
+    //inserted a table to display user details.
+    <div id="profile" style="visibility: hidden">
+        <table class="tableStyle">
+            <tr>
+                <th>Username:</th>
+                <td id="heading"></td>
+            </tr>
+            <tr>
+                <th>ID:</th>
+                <td id="userid"></td>
+            </tr>
+            <tr>
+                <th>Profile picture:</th>
+                <td><img src="" id="proPic" alt="" style="width:200px;height: 200px;background:none;border: none"> </td>
+            </tr>
+            <tr>
+                <th>Public repositories:</th>
+                <td id="repos"></td>
+            </tr>
+            <tr>
+                <th>Profile link:</th>
+                <td><a href="" id="proLink"></a> </td>
+            </tr>
+        </table>
     </div>
 </div>
 
